@@ -1,0 +1,2 @@
+# SpecifiedEnglishForAutomation
+自动化专业英语课本自己看的试着翻译一下
